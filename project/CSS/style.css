@@ -1,0 +1,37 @@
+.jumbotron1{
+    font-family: 'Kaushan Script', cursive;
+    background-image: url(../img/orchid-2.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover
+ } 
+ 
+ .jumbotron2{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    background-image: url(../img/flowers-5.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover
+ }
+ 
+ .jumbotron3 {
+    font-family: 'Peralta', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-image: url(../img/Logo.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover
+ }
+ 
+ .jumbotron4 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Montserrat', sans-serif; 
+    background-image: url(../img/orchid-2.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover
+ } 
+ 
+ 
